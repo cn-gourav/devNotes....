@@ -53,4 +53,7 @@ function name(parameter1, parameter2, ...) {
     // Write code here
 }
 
-name(argument1, argument2, ...);
+name(argument1, argument2, ...); 
+```
+
+## Return
