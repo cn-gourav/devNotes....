@@ -86,3 +86,6 @@ function example() {
     return "This ends the function!";
     console.log("This will not be executed.");
 }
+
+
+Made with love....
